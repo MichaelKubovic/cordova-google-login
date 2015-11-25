@@ -1,0 +1,6 @@
+{
+    "AddressBook.framework": 1,
+    "CoreText.framework": 1,
+    "StoreKit.framework": 1,
+    "SystemConfiguration.framework": 1
+}
